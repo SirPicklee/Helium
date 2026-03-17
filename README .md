@@ -7,10 +7,20 @@ A real-time simulation of the Helium atom, featuring both a 2D Bohr model and a 
 ## Demos
 
 ### 2D Bohr Model
-![Helium 2D](images/helium_2d.png)
+![Helium 2D]
+<img width="782" height="565" alt="Image" src="https://github.com/user-attachments/assets/b99bd6bc-4612-43f0-9b7e-996574ad3425" />
+
+<img width="777" height="572" alt="Image" src="https://github.com/user-attachments/assets/1b7f09aa-9b16-4ae2-b6b8-4c64e6556b6f" />
+
+<img width="777" height="554" alt="Image" src="https://github.com/user-attachments/assets/011d903a-1101-4d30-967f-5d1427e1b85c" />
 
 ### 3D Quantum Orbital
-![Helium 3D](images/helium_3d.png)
+![Helium 3D]
+<img width="708" height="516" alt="Image" src="https://github.com/user-attachments/assets/dca752d0-f850-45a1-a657-29c331b423de" />
+
+<img width="730" height="509" alt="Image" src="https://github.com/user-attachments/assets/7bf87fe5-accb-4323-8fa6-86277feed465" />
+
+<img width="723" height="549" alt="Image" src="https://github.com/user-attachments/assets/26ee447e-383a-4df2-90e4-3e571c3d0b89" />
 
 ---
 
